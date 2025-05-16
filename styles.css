@@ -5,8 +5,7 @@
     --laranja-claro: #830617;
     --alto-contraste-fundo: #00000044;
     --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: hwb(234 2% 43%);
-}
+    --alto-contraste-link: #fffff
 
 body {
     font-size: 1rem;
