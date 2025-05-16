@@ -5,7 +5,8 @@
     --laranja-claro: #830617;
     --alto-contraste-fundo: #00000044;
     --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #fffff
+    --alto-contraste-link: hwb(234 2% 43%);
+}
 
 body {
     font-size: 1rem;
@@ -23,7 +24,7 @@ section {
 
 
 .nav-link {
-    color:  #0e0683;j
+    color:  #830617;
     font-weight: 600;
 }
 
