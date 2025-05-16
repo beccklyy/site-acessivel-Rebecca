@@ -166,14 +166,14 @@ h2 {
 }
 
 .alto-contraste{
-    background-color: var(#0e068);
+    background-color: var(#0e0683;);
     color: var(--alto-contraste-texto);
 }
 
 .alto-contraste header,
 .alto-contraste footer,
 .alto-contraste .formulario{
-    background-color: var(#0e068);
+    background-color: var(#0e0683;);
     color: var(--alto-contraste-link);
 }
 
