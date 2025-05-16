@@ -4,8 +4,9 @@
 :root {
     --laranja-claro: #0e0683;
     --alto-contraste-fundo: #00000044;
-    --alto-contraste-texto: #ffffff;
-    --alto-contraste-link:  #00000044;
+    --alto-contraste-texto:  #00000044;
+    --alto-contraste-link: hwb(187 0% 0%);
+}
 
 body {
     font-size: 1rem;
