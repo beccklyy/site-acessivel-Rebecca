@@ -6,7 +6,6 @@
     --alto-contraste-fundo: #00000050;
     --alto-contraste-texto: #ffffff;
     --alto-contraste-link: hwb(187 0% 0%);
-      --alto-contraste-link: hwb(0 0% 100%);
 }
 
 body {
