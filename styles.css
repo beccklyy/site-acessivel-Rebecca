@@ -4,7 +4,7 @@
 :root {
     --laranja-claro: #0e0683;
     --alto-contraste-fundo: #00000044;
-    --alto-contraste-texto:  #00000044;
+    --alto-contraste-texto: #ffffff;
     --alto-contraste-link: hwb(187 0% 0%);
 }
 
@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #ffffff;
+    background-color:  #00000044;
 }
 
 
